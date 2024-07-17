@@ -5,5 +5,6 @@
   **!!!!!!Only for emergencies!!!!!!!!!**
 
 ```
-{/* @ts-ignore */}
+{/* @ts-ignore */} // just before the line
+// @ts-nocheck // comment on top of the file
 ```
